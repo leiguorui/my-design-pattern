@@ -1,4 +1,4 @@
-package cn.injava.pd.singleton;
+package cn.injava.dp.singleton;
 
 /**
  * 非线程安全的懒汉式

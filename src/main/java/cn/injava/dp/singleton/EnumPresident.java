@@ -1,4 +1,4 @@
-package cn.injava.pd.singleton;
+package cn.injava.dp.singleton;
 
 /**
  * 这是枚举实现的单例

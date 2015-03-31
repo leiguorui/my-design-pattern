@@ -1,4 +1,4 @@
-package cn.injava.pd.singleton;
+package cn.injava.dp.singleton;
 
 /**
  * 1. 生活中的单例：每个国家都一个总统，当需要总统的时候就会调用总统，
